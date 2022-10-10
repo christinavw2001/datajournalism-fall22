@@ -1,5 +1,5 @@
 # Data Journalism Critique:
-- [Use of physical restraints by teachers in Iowa](https://www.acludc.org/en/cases/jd-v-azar-formerly-garza-v-azar-and-garza-v-hargan-challenging-trump-administrations-refusal)
+- [Use of physical restraints by teachers in Iowa](https://www.thegazette.com/subject/news/education/school-seclusion-restraint-cedar-rapids-iowa-city-school-districts-20200119)
 ## Clarity and Accuracy:
 - From the headline alone, I was able to quickly deduce the main idea of the article, which is that two Iowa school districts are refusing to release information about their use of seclusion. The first couple paragraphs of the article make clear why this issue is timely - data from the first month of the school year shows the use of seclusion on elementary school students in one of the school districts has greatly increased, but the school district refuses to release reports of the circumstances under which seclusion was used, making it almost impossible to find out the reason for the increase. Although the main idea of the article was immediately clear, the first paragraph was a bit cluttered with numbers, making it somewhat difficult to read, which reduced the clarity slightly. 
   - Score: 4/5
